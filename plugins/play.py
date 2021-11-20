@@ -256,7 +256,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("🚨 Support", url="t.me/decodesupport"),
-                    InlineKeyboardButton("📡 Updates", url="t.me/DeeCodebots"),
+                    InlineKeyboardButton("📡 Updates", url="t.me/DeeCodeots"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
